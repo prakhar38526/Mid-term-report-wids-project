@@ -79,5 +79,3 @@ https://colab.research.google.com/drive/1vaiYAdeVZrm4xGdLiYWHb-DD1FboCVkE#scroll
 This project helped me understand Machine Learning in a structured way, starting from basic programming to deep learning models. It also gave me confidence in implementing models rather than just studying them theoretically.
 
 ---
-
-Update README for WiDS Mid-Term Report
