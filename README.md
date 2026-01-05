@@ -9,6 +9,7 @@ The main aim of this project was learning concepts step by step and then seeing 
 ---
 
 ## What I Did and Learned
+---
 
 ### Week 1: Python Basics
 In the first week, the focus was on getting comfortable with Python.
@@ -16,6 +17,7 @@ In the first week, the focus was on getting comfortable with Python.
 I revised basic Python concepts like variables, data types, lists, dictionaries, loops and functions. I also practiced writing simple programs and understood how recursion works at a basic level. Along with this, we had a brief theoretical introduction to Machine Learning to understand what it is and where it is used.
 
 This week helped me build the programming foundation required for the later weeks.
+
 
 ---
 
@@ -25,6 +27,7 @@ In this week, I learned the core ideas behind Machine Learning.
 We studied different types of Machine Learning and then focused mainly on **Linear Regression**. I learned about cost functions and gradient descent and how models try to reduce error during training. Neural Networks were introduced conceptually, and I also learned how to use **Pandas** for handling datasets.
 
 This week helped me understand the math and logic behind ML models instead of just treating them as black boxes.
+
 
 ---
 
@@ -53,6 +56,28 @@ The Week 4 assignment was based on Convolutional Neural Networks and image class
 Google Colab Link:  
 https://colab.research.google.com/drive/1vaiYAdeVZrm4xGdLiYWHb-DD1FboCVkE#scrollTo=bF0Jta0iUL4S
 
+
+---
+
+## Experiments and Observations
+
+- Initially tried training the model with fewer epochs, but accuracy
+  was unstable.
+- Increasing epochs improved performance, but after a point the model
+  started overfitting.
+- Basic data augmentation helped slightly, but was not explored deeply
+  due to time constraints.
+  
+---
+
+## Learning Notes
+
+- Implementing linear regression from scratch helped me understand how
+  gradient descent actually updates parameters.
+- While working with neural networks, I noticed how sensitive training
+  can be to learning rate and initialization.
+- For the traffic sign task, CNNs performed better mainly because they
+  could automatically extract spatial features from images.
 
 ---
 
