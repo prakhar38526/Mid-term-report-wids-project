@@ -9,7 +9,7 @@ The main aim of this project was learning concepts step by step and then seeing 
 ---
 
 ## What I Did and Learned
----
+
 
 ### Week 1: Python Basics
 In the first week, the focus was on getting comfortable with Python.
